@@ -1,0 +1,101 @@
+product_code,division,segment,category,product,variant
+A0118150101,"P & A",Peripherals,"Internal HDD","AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Standard
+A0118150102,"P & A",Peripherals,"Internal HDD","AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Plus
+A0118150103,"P & A",Peripherals,"Internal HDD","AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache",Premium
+A0118150104,"P & A",Peripherals,"Internal HDD","AQ Dracula HDD – 3.5 Inch SATA 6 Gb/s 5400 RPM 256 MB Cache","Premium Plus"
+A0219150201,"P & A",Peripherals,"Internal HDD","AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm",Standard
+A0219150202,"P & A",Peripherals,"Internal HDD","AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm",Plus
+A0220150203,"P & A",Peripherals,"Internal HDD","AQ WereWolf NAS Internal Hard Drive HDD – 8.89 cm",Premium
+A0320150301,"P & A",Peripherals,"Internal HDD","AQ Zion Saga",Standard
+A0321150302,"P & A",Peripherals,"Internal HDD","AQ Zion Saga",Plus
+A0321150303,"P & A",Peripherals,"Internal HDD","AQ Zion Saga",Premium
+A0418150101,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Standard 1"
+A0418150102,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Standard 2"
+A0418150103,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Standard 3"
+A0418150104,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Plus 1"
+A0418150105,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Plus 2"
+A0418150106,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Plus 3"
+A0418150107,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Premium 1"
+A0418150108,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen X","Premium 2"
+A0519150201,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Standard 1"
+A0519150202,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Standard 2"
+A0519150203,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Standard 3"
+A0519150204,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Plus 1"
+A0519150205,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Plus 2"
+A0519150206,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Plus 3"
+A0519150207,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Premium 1"
+A0519150208,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Y","Premium 2"
+A0619150301,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Standard 1"
+A0619150302,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Standard 2"
+A0620150303,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Standard 3"
+A0620150304,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Plus 1"
+A0620150305,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Plus 2"
+A0620150306,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Plus 3"
+A0621150307,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Premium 1"
+A0621150308,"P & A",Peripherals,"Graphic Card","AQ Mforce Gen Z","Premium 2"
+A0721150401,"P & A",Peripherals,"Graphic Card","AQ GT 21",Standard
+A0721150402,"P & A",Peripherals,"Graphic Card","AQ GT 21","Plus 1"
+A0721150403,"P & A",Peripherals,"Graphic Card","AQ GT 21","Plus 2"
+A0721150404,"P & A",Peripherals,"Graphic Card","AQ GT 21",Premium
+A0821150501,"P & A",Peripherals,"Graphic Card","AQ Marquee P3",Standard
+A0821150502,"P & A",Peripherals,"Graphic Card","AQ Marquee P3","Plus 1"
+A0821150503,"P & A",Peripherals,"Graphic Card","AQ Marquee P3","Plus 2"
+A0821150504,"P & A",Peripherals,"Graphic Card","AQ Marquee P3",Premium
+A0921150601,"P & A",Peripherals,"Graphic Card","AQ Marquee P4",Standard
+A0921150602,"P & A",Peripherals,"Graphic Card","AQ Marquee P4","Plus 1"
+A0921150603,"P & A",Peripherals,"Graphic Card","AQ Marquee P4","Plus 2"
+A0921150604,"P & A",Peripherals,"Graphic Card","AQ Marquee P4",Premium
+A1018150101,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 9 5900X Desktop Processor",Standard
+A1018150102,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 9 5900X Desktop Processor",Plus
+A1018150103,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 9 5900X Desktop Processor",Premium
+A1118150201,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 8 5900X Desktop Processor",Standard
+A1118150202,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 8 5900X Desktop Processor",Plus
+A1119150203,"P & A",Peripherals,Processors,"AQ 5000 Series Electron 8 5900X Desktop Processor",Premium
+A1219150301,"P & A",Peripherals,Processors,"AQ 5000 Series Ultron 8 5900X Desktop Processor",Standard
+A1219150302,"P & A",Peripherals,Processors,"AQ 5000 Series Ultron 8 5900X Desktop Processor",Plus
+A1219150303,"P & A",Peripherals,Processors,"AQ 5000 Series Ultron 8 5900X Desktop Processor",Premium
+A1319150401,"P & A",Peripherals,Processors,"AQ Electron 5 3600 Desktop Processor",Standard
+A1320150402,"P & A",Peripherals,Processors,"AQ Electron 5 3600 Desktop Processor",Plus
+A1320150403,"P & A",Peripherals,Processors,"AQ Electron 5 3600 Desktop Processor",Premium
+A1420150501,"P & A",Peripherals,Processors,"AQ Electron 4 3600 Desktop Processor",Standard
+A1420150502,"P & A",Peripherals,Processors,"AQ Electron 4 3600 Desktop Processor",Plus
+A1421150503,"P & A",Peripherals,Processors,"AQ Electron 4 3600 Desktop Processor",Premium
+A1521150601,"P & A",Peripherals,Processors,"AQ Electron 3 3600 Desktop Processor",Standard
+A1521150602,"P & A",Peripherals,Processors,"AQ Electron 3 3600 Desktop Processor",Plus
+A1521150603,"P & A",Peripherals,Processors,"AQ Electron 3 3600 Desktop Processor",Premium
+A1618150101,"P & A",Peripherals,MotherBoard,"AQ MB Elite",Standard
+A1618150102,"P & A",Peripherals,MotherBoard,"AQ MB Elite","Plus 1"
+A1618150103,"P & A",Peripherals,MotherBoard,"AQ MB Elite","Plus 2"
+A1618150104,"P & A",Peripherals,MotherBoard,"AQ MB Elite",Premium
+A1718150201,"P & A",Peripherals,MotherBoard,"AQ MB Crossx",Standard
+A1718150202,"P & A",Peripherals,MotherBoard,"AQ MB Crossx","Plus 1"
+A1718150203,"P & A",Peripherals,MotherBoard,"AQ MB Crossx","Plus 2"
+A1718150204,"P & A",Peripherals,MotherBoard,"AQ MB Crossx",Premium
+A1819150301,"P & A",Peripherals,MotherBoard,"AQ MB Crossx 2",Standard
+A1819150302,"P & A",Peripherals,MotherBoard,"AQ MB Crossx 2","Plus 1"
+A1819150303,"P & A",Peripherals,MotherBoard,"AQ MB Crossx 2","Plus 2"
+A1819150304,"P & A",Peripherals,MotherBoard,"AQ MB Crossx 2",Premium
+A1919150401,"P & A",Peripherals,MotherBoard,"AQ MB Lito",Standard
+A1919150402,"P & A",Peripherals,MotherBoard,"AQ MB Lito","Plus 1"
+A1919150403,"P & A",Peripherals,MotherBoard,"AQ MB Lito","Plus 2"
+A1920150404,"P & A",Peripherals,MotherBoard,"AQ MB Lito",Premium
+A2020150501,"P & A",Peripherals,MotherBoard,"AQ MB Lito 2",Standard
+A2020150502,"P & A",Peripherals,MotherBoard,"AQ MB Lito 2","Plus 1"
+A2021150503,"P & A",Peripherals,MotherBoard,"AQ MB Lito 2","Plus 2"
+A2021150504,"P & A",Peripherals,MotherBoard,"AQ MB Lito 2",Premium
+A2118150101,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Standard 1"
+A2118150102,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Standard 2"
+A2118150103,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Plus 1"
+A2118150104,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Plus 2"
+A2118150105,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Premium 1"
+A2118150106,"P & A",Accessories,Mouse,"AQ Master wired x1 Ms","Premium 2"
+A2218150201,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Standard 1"
+A2218150202,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Standard 2"
+A2219150203,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Plus 1"
+A2219150204,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Plus 2"
+A2219150205,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Premium 1"
+A2219150206,"P & A",Accessories,Mouse,"AQ Master wireless x1 Ms","Premium 2"
+A2319150301,"P & A",Accessories,Mouse,"AQ Gamers Ms","Standard 1"
+A2319150302,"P & A",Accessories,Mouse,"AQ Gamers Ms","Standard 2"
+A2319150303,"P & A",Accessories,Mouse,"AQ Gamers Ms","Plus 1"
+A2319150304,"P & A",Accessories,Mouse,"AQ Gamers Ms","Plus 2"

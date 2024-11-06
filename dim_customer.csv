@@ -1,0 +1,101 @@
+customer_code,customer,platform,channel,market,sub_zone,region
+70002017,"Atliq Exclusive","Brick & Mortar",Direct,India,India,APAC
+70002018,"Atliq e Store",E-Commerce,Direct,India,India,APAC
+70003181,"Atliq Exclusive","Brick & Mortar",Direct,Indonesia,ROA,APAC
+70003182,"Atliq e Store",E-Commerce,Direct,Indonesia,ROA,APAC
+70004069,"Atliq Exclusive","Brick & Mortar",Direct,Japan,ROA,APAC
+70004070,"Atliq e Store",E-Commerce,Direct,Japan,ROA,APAC
+70005163,"Atliq e Store",E-Commerce,Direct,Pakistan,ROA,APAC
+70006157,"Atliq Exclusive","Brick & Mortar",Direct,Philiphines,ROA,APAC
+70006158,"Atliq e Store",E-Commerce,Direct,Philiphines,ROA,APAC
+70007198,"Atliq Exclusive","Brick & Mortar",Direct,"South Korea",ROA,APAC
+70007199,"Atliq e Store",E-Commerce,Direct,"South Korea",ROA,APAC
+70008169,"Atliq Exclusive","Brick & Mortar",Direct,Australia,ANZ,APAC
+70008170,"Atliq e Store",E-Commerce,Direct,Australia,ANZ,APAC
+70009133,"Atliq Exclusive","Brick & Mortar",Direct,Newzealand,ANZ,APAC
+70009134,"Atliq e Store",E-Commerce,Direct,Newzealand,ANZ,APAC
+70010047,"Atliq Exclusive","Brick & Mortar",Direct,Bangladesh,ROA,APAC
+70010048,"Atliq e Store",E-Commerce,Direct,Bangladesh,ROA,APAC
+70011193,"Atliq Exclusive","Brick & Mortar",Direct,France,SE,EU
+70011194,"Atliq e Store",E-Commerce,Direct,France,SE,EU
+70012042,"Atliq Exclusive","Brick & Mortar",Direct,Germany,NE,EU
+70012043,"Atliq e Store",E-Commerce,Direct,Germany,NE,EU
+70013125,"Atliq Exclusive","Brick & Mortar",Direct,Italy,SE,EU
+70013126,"Atliq e Store",E-Commerce,Direct,Italy,SE,EU
+70014142,"Atliq Exclusive","Brick & Mortar",Direct,Netherlands,NE,EU
+70014143,"Atliq e Store",E-Commerce,Direct,Netherlands,NE,EU
+70015151,"Atliq Exclusive","Brick & Mortar",Direct,Norway,NE,EU
+70015152,"Atliq e Store",E-Commerce,Direct,Norway,NE,EU
+70016177,"Atliq Exclusive","Brick & Mortar",Direct,Poland,NE,EU
+70016178,"Atliq e Store",E-Commerce,Direct,Poland,NE,EU
+70017060,"Atliq e Store",E-Commerce,Direct,Portugal,SE,EU
+70018115,"Atliq e Store",E-Commerce,Direct,Spain,SE,EU
+70019204,"Atliq e Store",E-Commerce,Direct,Sweden,NE,EU
+70020104,"Atliq e Store",E-Commerce,Direct,Austria,NE,EU
+70021096,"Atliq e Store",E-Commerce,Direct,"United Kingdom",NE,EU
+70022084,"Atliq Exclusive","Brick & Mortar",Direct,USA,NA,NA
+70022085,"Atliq e Store",E-Commerce,Direct,USA,NA,NA
+70023031,"Atliq Exclusive","Brick & Mortar",Direct,Canada,NA,NA
+70023032,"Atliq e Store",E-Commerce,Direct,Canada,NA,NA
+70026206,"Atliq e Store",E-Commerce,Direct,Mexico,LATAM,LATAM
+70027208,"Atliq e Store",E-Commerce,Direct,Brazil,LATAM,LATAM
+80001019,Neptune,"Brick & Mortar",Distributor,China,ROA,APAC
+80006154,Synthetic,"Brick & Mortar",Distributor,Philiphines,ROA,APAC
+80006155,Novus,"Brick & Mortar",Distributor,Philiphines,ROA,APAC
+80007195,Sage,"Brick & Mortar",Distributor,"South Korea",ROA,APAC
+80007196,Leader,"Brick & Mortar",Distributor,"South Korea",ROA,APAC
+90001020,Zone,"Brick & Mortar",Retailer,China,ROA,APAC
+90001021,Taobao,E-Commerce,Retailer,China,ROA,APAC
+90002001,"Reliance Digital","Brick & Mortar",Retailer,India,India,APAC
+90002002,Croma,"Brick & Mortar",Retailer,India,India,APAC
+90002003,Ezone,"Brick & Mortar",Retailer,India,India,APAC
+90002004,"Vijay Sales","Brick & Mortar",Retailer,India,India,APAC
+90002005,Lotus,"Brick & Mortar",Retailer,India,India,APAC
+90002006,Viveks,"Brick & Mortar",Retailer,India,India,APAC
+90002007,Girias,"Brick & Mortar",Retailer,India,India,APAC
+90002008,Amazon,E-Commerce,Retailer,India,India,APAC
+90002009,Flipkart,E-Commerce,Retailer,India,India,APAC
+90002010,Ebay,E-Commerce,Retailer,India,India,APAC
+90002011,"Atliq Exclusive","Brick & Mortar",Retailer,India,India,APAC
+90002012,Electricalsocity,"Brick & Mortar",Retailer,India,India,APAC
+90002013,Electricalslytical,"Brick & Mortar",Retailer,India,India,APAC
+90002014,Expression,"Brick & Mortar",Retailer,India,India,APAC
+90002015,Propel,"Brick & Mortar",Retailer,India,India,APAC
+90002016,"Amazon ",E-Commerce,Retailer,India,India,APAC
+90003179,"Acclaimed Stores","Brick & Mortar",Retailer,Indonesia,ROA,APAC
+90003180,"Amazon ",E-Commerce,Retailer,Indonesia,ROA,APAC
+90004061,"Info Stores","Brick & Mortar",Retailer,Japan,ROA,APAC
+90004062,"Flawless Stores","Brick & Mortar",Retailer,Japan,ROA,APAC
+90004063,"Electricalsbea Stores","Brick & Mortar",Retailer,Japan,ROA,APAC
+90004064,All-Out,"Brick & Mortar",Retailer,Japan,ROA,APAC
+90004065,Neptune,"Brick & Mortar",Retailer,Japan,ROA,APAC
+90004066,"Surface Stores","Brick & Mortar",Retailer,Japan,ROA,APAC
+90004067,Amazon,E-Commerce,Retailer,Japan,ROA,APAC
+90004068,"Amazon ",E-Commerce,Retailer,Japan,ROA,APAC
+90005159,Expression,"Brick & Mortar",Retailer,Pakistan,ROA,APAC
+90005160,"Nomad Stores","Brick & Mortar",Retailer,Pakistan,ROA,APAC
+90005161,Zone,"Brick & Mortar",Retailer,Pakistan,ROA,APAC
+90005162,"Amazon ",E-Commerce,Retailer,Pakistan,ROA,APAC
+90006153,Insight,"Brick & Mortar",Retailer,Philiphines,ROA,APAC
+90006156,"Amazon ",E-Commerce,Retailer,Philiphines,ROA,APAC
+90007197,"Amazon ",E-Commerce,Retailer,"South Korea",ROA,APAC
+90008164,Digimarket,"Brick & Mortar",Retailer,Australia,ANZ,APAC
+90008165,"Forward Stores","Brick & Mortar",Retailer,Australia,ANZ,APAC
+90008166,Sound,"Brick & Mortar",Retailer,Australia,ANZ,APAC
+90008167,Electricalsocity,"Brick & Mortar",Retailer,Australia,ANZ,APAC
+90008168,"Amazon ",E-Commerce,Retailer,Australia,ANZ,APAC
+90009127,"Epic Stores","Brick & Mortar",Retailer,Newzealand,ANZ,APAC
+90009128,Propel,"Brick & Mortar",Retailer,Newzealand,ANZ,APAC
+90009129,Leader,"Brick & Mortar",Retailer,Newzealand,ANZ,APAC
+90009130,"Logic Stores","Brick & Mortar",Retailer,Newzealand,ANZ,APAC
+90009131,Path,"Brick & Mortar",Retailer,Newzealand,ANZ,APAC
+90009132,"Amazon ",E-Commerce,Retailer,Newzealand,ANZ,APAC
+90010044,"Surface Stores","Brick & Mortar",Retailer,Bangladesh,ROA,APAC
+90010045,Control,"Brick & Mortar",Retailer,Bangladesh,ROA,APAC
+90010046,"Amazon ",E-Commerce,Retailer,Bangladesh,ROA,APAC
+90011185,"Epic Stores","Brick & Mortar",Retailer,France,SE,EU
+90011186,Elite,"Brick & Mortar",Retailer,France,SE,EU
+90011187,"Chip 7","Brick & Mortar",Retailer,France,SE,EU
+90011188,Elkjøp,"Brick & Mortar",Retailer,France,SE,EU
+90011189,UniEuro,"Brick & Mortar",Retailer,France,SE,EU
+90011190,"Media Markt","Brick & Mortar",Retailer,France,SE,EU
